@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"roomtypespe",
+				"roomtypearrayspecial"
+			],
+			[
+				"roo",
+				"roomtypearray"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"mu",
+				"museosans_900"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"border-l",
+				"border-left"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"muse",
+				"museosansrounded_500"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mus",
+				"museosans_500"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"pro",
+				"product_slider"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"cr",
+				"cursor"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"github pul",
+				"GitHub: Public Gist from Selection"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: Insall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control In",
+				"Package Control: Install Package"
+			],
+			[
+				"PackControl: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/NathanP/Desktop/gallery.html",
+		"/C/Users/NathanP/Desktop/loadgallery.js",
+		"/C/Users/NathanP/Desktop/test.js",
+		"/Z/Clients/AwayMadeSimple/build/markup/3013.09.27/markup/accomodation-details.html",
+		"/C/Users/NathanP/Desktop/2013.08.16/accomodation-details_step1.html",
+		"/C/Users/NathanP/Desktop/2013.08.16/js/book.js",
+		"/C/Users/NathanP/Desktop/project/main.scss",
+		"/Z/Clients/AwayMadeSimple/build/markup/2013.08.16/js/book.js",
+		"/C/Users/NathanP/Desktop/project/Gruntfile.js",
+		"/C/Users/NathanP/Desktop/project/modules/color.scss",
+		"/C/Users/NathanP/Desktop/project/scss/modules",
+		"/C/Users/NathanP/Desktop/testfolder/Gruntfile.js",
+		"/C/Users/NathanP/Desktop/test.css",
+		"/C/Users/NathanP/Desktop/test.html",
+		"/D/Sandbox/singularity_practice/scss/style.scss",
+		"/D/Sandbox/singularity_practice/Gruntfile.js",
+		"/D/Sandbox/singularity_practice/package.json",
+		"/C/Users/NathanP/Desktop/lightbox/lightbox.html",
+		"/C/Users/NathanP/Desktop/testfolder/package.json",
+		"/D/Sandbox/singularity_practice/index.html",
+		"/C/Users/NathanP/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/NathanP/css/style.css",
+		"/C/Users/NathanP/style.scss",
+		"/C/scss/style.scss",
+		"/C/Users/NathanP/singularity_practice/index.html",
+		"/C/Users/NathanP/scss",
+		"/Z/Clients/AwayMadeSimple/build/markup/2013.09.27/markup/css/all.css",
+		"/D/Sandbox/AMS/markup/css/all.css",
+		"/D/Sandbox/AMS/markup/accomodation-details.html",
+		"/D/Sandbox/AMS/markup/js/app.js",
+		"/C/Users/NathanP/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/NathanP/Desktop/susypractice/js/test.js",
+		"/C/Users/NathanP/Desktop/susypractice/stylesheets/screen.css",
+		"/C/Users/NathanP/Desktop/susypractice/index.html",
+		"/C/Users/NathanP/Desktop/grunt_practce/package.json",
+		"/D/Sandbox/susypractice/index.html",
+		"/D/Sandbox/testfolder/index.html",
+		"/C/Users/NathanP/Desktop/footgear/website/test/test.js",
+		"/C/Users/NathanP/AppData/Roaming/Sublime Text 3/Installed Packages/jQuery-Snippets/README.md",
+		"/D/footgear/2013.09.25/css/tablet.css",
+		"/D/footgear/2013.09.25/css/main.css",
+		"/D/footgear/2013.09.25/css/desktop.css",
+		"/D/footgear/2013.09.25/home.html",
+		"/C/Users/NathanP/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/NathanP/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/NathanP/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/NathanP/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/C/Users/NathanP/Desktop/lightbox2/lightbox.html",
+		"/C/Users/NathanP/Desktop/lightbox2/test.html",
+		"/C/Users/NathanP/Desktop/lightbox/fancyapps-fancyBox-18d1712/demo/test.html",
+		"/C/Users/NathanP/Desktop/lightbox/fancyapps-fancyBox-18d1712/demo/index.html",
+		"/D/Sandbox/susypractice/sass/screen.scss",
+		"/D/Sandbox/susypractice/sass/_base.scss",
+		"/D/Sandbox/susypractice/stylesheets/screen.css",
+		"/D/Sandbox/testfolder/css/colors.css",
+		"/D/Sandbox/testfolder/scss/colors.scss",
+		"/D/Sandbox/testfolder/css/colors.min.css",
+		"/D/Sandbox/testfolder/Gruntfile.js",
+		"/D/footgear/2013.09.25/css/mobile.css",
+		"/D/Sandbox/testfolder/scss/text.scss",
+		"/C/Users/NathanP/Desktop/testfolder/scss/colors.scss",
+		"/C/Users/NathanP/Desktop/testfolder/index.html",
+		"/C/Users/NathanP/Desktop/testfolder/css/colors.min.css",
+		"/C/Users/NathanP/Desktop/testfolder/css/colors.css",
+		"/C/Users/NathanP/Desktop/testfolder/sass/colors.scss",
+		"/C/Users/NathanP/Desktop/testfolder/styles/colors.sass",
+		"/C/Users/NathanP/Desktop/testfolder/sass/colors.sass",
+		"/C/Users/NathanP/AppData/Local/Temp/fz3temp-1/web.config",
+		"/D/footgear/2013.09.25/competitionssingle.html",
+		"/D/footgear/2013.09.25/promosingle.html",
+		"/D/footgear/2013.09.25/vip.html",
+		"/D/footgear/2013.09.25/js/main.js",
+		"/D/footgear/2013.09.23/product.html",
+		"/D/footgear/2013.09.23/css/mobile.css",
+		"/D/footgear/2013.09.23/css/tablet.css",
+		"/D/footgear/2013.09.23/css/desktop.css",
+		"/D/footgear/2013.09.23/css/main.css",
+		"/D/footgear/2013.09.23/home.html",
+		"/D/footgear/2013.09.23/faq.html",
+		"/D/footgear/2013.09.23/news.html",
+		"/D/footgear/2013.09.23/js/news.js",
+		"/D/footgear/2013.09.23/js/home.js",
+		"/D/footgear/2013.09.23/js/product.js",
+		"/D/footgear/2013.09.23/js/main.js",
+		"/D/footgear/2013.09.23/js/faq.js",
+		"/D/footgear/2013.09.23/brand.html",
+		"/D/footgear/2013.09.23/js/vendor/scrollable.js",
+		"/D/footgear/2013.09.23/terms.html",
+		"/D/footgear/2013.09.23/about.html",
+		"/D/footgear/2013.09.23/search_results.html",
+		"/D/footgear/2013.09.23/promotions.html",
+		"/D/footgear/2013.09.23/promosingle.html",
+		"/D/footgear/2013.09.23/news2.html",
+		"/D/footgear/2013.09.23/vip.html",
+		"/D/footgear/2013.09.23/generic.html",
+		"/D/footgear/2013.09.23/contact.html",
+		"/D/footgear/2013.09.23/competitionssingle.html",
+		"/D/footgear/2013.09.23/competitions.html",
+		"/D/footgear/2013.09.10/generic.html",
+		"/D/footgear/2013.09.10/js/main.js",
+		"/D/footgear/2013.09.10/home.html",
+		"/C/Users/NathanP/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/C/Users/NathanP/AppData/Local/Temp/fz3temp-1/index.html",
+		"/D/footgear/2013.09.20/js/main.js",
+		"/D/footgear/2013.09.20/css/main.css",
+		"/D/footgear/2013.09.20/css/mobile.css",
+		"/D/footgear/2013.09.20/competitionssingle.html",
+		"/D/footgear/2013.09.20/competitions.html",
+		"/D/footgear/2013.09.20/brand.html",
+		"/D/footgear/2013.09.20/product.html",
+		"/D/footgear/2013.09.20/news2.html",
+		"/D/footgear/2013.09.20/css/tablet.css",
+		"/D/footgear/2013.09.20/promosingle.html",
+		"/D/footgear/2013.09.20/css/desktop.css",
+		"/D/footgear/2013.09.20/vip.html",
+		"/D/footgear/2013.09.20/about.html",
+		"/D/footgear/2013.09.20/home.html",
+		"/D/footgear/2013.09.20/news.html",
+		"/C/Users/NathanP/AppData/Local/Temp/fz3temp-1/main.js",
+		"/C/Users/NathanP/Google Drive/TEST/scripts/script.js",
+		"/D/footgear/2013.09.19/css/desktop.css",
+		"/D/footgear/2013.09.19/css/tablet.css",
+		"/D/footgear/2013.09.19/css/mobile.css",
+		"/D/footgear/2013.09.19/js/main.js",
+		"/D/footgear/2013.09.19/css/main.css",
+		"/D/footgear/2013.09.19/about.html",
+		"/D/footgear/2013.09.19/brand.html",
+		"/D/footgear/2013.09.19/css/normalize.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"click",
+			"rates",
+			".content",
+			"vip",
+			"signup",
+			"swipe",
+			"acc",
+			"ACC",
+			"faq",
+			"vipsignpup",
+			"module",
+			"box",
+			"promo single",
+			"compe",
+			"image",
+			"trans",
+			"h2",
+			"vip",
+			"trigger",
+			".sign",
+			"not",
+			"promotions",
+			";\n",
+			"button_grad",
+			"sign me",
+			"gradient",
+			"inset",
+			".promo_single",
+			".vip",
+			"content",
+			"deals",
+			"overlay",
+			"read",
+			"june",
+			"pagi",
+			"article",
+			"h2",
+			"acco",
+			"no-repeat",
+			"mobile",
+			"mobil",
+			"hero",
+			":hover",
+			"sign me",
+			"Sign me",
+			"UP",
+			"brand page",
+			"scrollable_pro",
+			"scrollable_pro\n",
+			"scrollable",
+			"scollable",
+			"#scollable",
+			"scrollable",
+			"nav",
+			"GPS",
+			"select",
+			"social",
+			"pipe",
+			"img",
+			"PRODUCT PAGE",
+			"social",
+			"acc",
+			"bread",
+			"adidas",
+			"header",
+			"NEWS PAGE",
+			"social",
+			"img",
+			"hero",
+			".hero",
+			"select a ",
+			"select a",
+			"store",
+			"select",
+			"input",
+			"hover",
+			"input",
+			"promo_mo",
+			"bread",
+			"module",
+			"competitios",
+			"ABOUT PAG",
+			"promo",
+			"news",
+			"#scrollable",
+			"not",
+			"module",
+			"map",
+			"module",
+			"signup_form",
+			"gradient",
+			"lar",
+			"promotions",
+			"module",
+			".module",
+			"module",
+			"search",
+			"url",
+			"accord",
+			"shadow",
+			".acc",
+			"gradient",
+			"accord",
+			"arial"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Sandbox\\singularity_practice\\singularity_practice.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 371.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
